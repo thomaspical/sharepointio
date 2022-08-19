@@ -1,7 +1,8 @@
 SharepointIO
 =============
 
-An easy use of Office365-REST-Python-Client to download/upload/list sharepoint files
+An easy use of Office365-REST-Python-Client to download/upload/list sharepoint files.
+Can be installed from Pypi with `pip install sharepointio`
 
 **********
 How to use
